@@ -8,9 +8,24 @@ This project focuses on the development of a Quantum Random Number Generator (QR
 - **Explore Applications:** Investigate potential uses in quantum key distribution (QKD), secure communications, encryption for corporate phone calls, and advanced computational simulations.
 - **Optimize Performance:** Focus on enhancing the speed and efficiency of the QRNG compared to existing solutions.
 
+## 3D Models
+
+The following 3D models have been created for the Quantum Random Number Generator (QRNG) project:
+
+- **[Alignment Tool](3D_Models/alignment_tool.scad):** A tool designed to ensure precise alignment of components within the QRNG system.
+- **[Base Platform](3D_Models/base_platform.scad):** The foundational platform on which all other components of the QRNG are mounted.
+- **[Cable Management Clip](3D_Models/cable_management_clip.scad):** A custom-designed clip to organize and secure cables within the QRNG assembly.
+- **[Cooling Fan Mount](3D_Models/cooling_fan_mount.scad):** A mount for attaching a cooling fan to ensure optimal thermal management of the QRNG hardware.
+- **[Laser Diode Mount](3D_Models/laser_diode_mount.scad):** A precision mount designed for the secure placement and alignment of the laser diode in the QRNG.
+- **[Lattice Enclosure](3D_Models/lattice_enclosure.scad):** An enclosure with lattice structures to house sensitive components while allowing adequate airflow.
+- **[Modular Enclosure](3D_Models/modular_enclosure.scad):** A modular, stackable enclosure that allows for easy expansion and customization of the QRNG setup.
+- **[Quantum Dot Chamber](3D_Models/quantum_dot_chamber.scad):** The chamber designed to hold quantum dots, optimized for interaction with laser light.
+- **[Sensor Slot Enclosure](3D_Models/sensor_slot_enclosure.scad):** An enclosure with dedicated slots for embedding sensors with adjustable mounting.
+- **[Vented Enclosure](3D_Models/vented_enclosure.scad):** An enclosure designed with multi-directional vents for enhanced cooling and airflow.
+
 ## Current Progress
 
-- **3D Modeling and Prototyping:** Designed and currently 3D printing various models to optimize the QRNG’s efficiency. Ongoing testing is being conducted to refine the design and achieve maximum performance.
+- **3D Modeling and Prototyping:** All essential components have been designed and 3D printed. Ongoing testing is being conducted to refine the design and achieve maximum performance.
 - **Software Development:** Developing software to interpret the generated quantum random numbers and integrate them into practical applications, including cryptographic protocols and secure communications.
 
 ## Future Work
